@@ -65,6 +65,7 @@
 
 ###
 
-<h2 align="left">🔥   My portfolio projects:<br>- [Multiple simple frontend projects](https://github.com/ValafarL/FrontendMentor---Projects)<br>- [Web Site with Movies and series API ](https://github.com/ValafarL/movies-hub)</h2>
+## My portfolio projects:
 
-###
+- [Multiple simple frontend projects](https://github.com/ValafarL/FrontendMentor---Projects)
+- [Web Site with Movies and series API ](https://github.com/ValafarL/movies-hub)
