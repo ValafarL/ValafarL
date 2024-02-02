@@ -6,10 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ValafarL/ValafarL/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">👩‍💻  About Me</h1>
 
 ###
