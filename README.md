@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ValafarL/ValafarL/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ValafarL/ValafarL/output/snake.svg" alt="Snake animation" />
 
 ###
 
