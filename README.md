@@ -65,3 +65,4 @@
 
 - [some simple frontend projects](https://github.com/ValafarL/FrontendMentor---Projects)
 - [Web Site with Movies and series API ](https://github.com/ValafarL/movies-hub)
+- [Kanban only Frontend](https://github.com/ValafarL/kanban-project)
