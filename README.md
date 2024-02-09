@@ -61,6 +61,7 @@
 ###
 
 ## My portfolio projects:
+- [Platform Game](https://github.com/ValafarL/platform-game)
 - [Web Site with Movies and series API ](https://github.com/ValafarL/movies-hub)
 - [Python Dashboard - Display System informations](https://github.com/ValafarL/DashBoard)
 - [Kanban only Frontend](https://github.com/ValafarL/kanban-project)
