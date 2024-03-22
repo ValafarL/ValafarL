@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">I'm Lucas and I study Bachelor of Information Systems at UTFPR<br><br>- 🔭 I’m looking for a job oportunity on WebDev or Java developer<br>- 📚 I'm currently learning OOP in Java and backend develop using nodejs/express</h2>
+<h2 align="left">I'm Lucas and I study Bachelor of Information Systems at UTFPR<br><br>- 🔭 I’m looking for a job oportunity on WebDev or Java developer</h2>
 
 ###
 
