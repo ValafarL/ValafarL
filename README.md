@@ -17,10 +17,6 @@
 
 ###
 
-<h3 align="left">🛠 Language and Technologies</h3>
-
-###
-
 ## Skills
 
 ### Languages
