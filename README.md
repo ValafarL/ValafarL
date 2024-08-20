@@ -5,7 +5,7 @@
 ###
 
 <h5 align="left">I'm Lucas and I study Bachelor of Information Systems at UTFPR
-  <br><br>- 🔭 I’m currently looking for a job oportunity as Fullstack or only Backend devloper in Nodejs or Java</h5>
+  <br><br>- 🔭 I’m currently looking for a job oportunity as Fullstack or Backend developer</h5>
 
 ###
 
